@@ -1,6 +1,6 @@
 # ServerCpp
 
-<img src="https://github.com/utilForever/Civilizationpp/blob/master/Logo.png" align="center" width=256 height=256 />  
+<img src="https://github.com/gitJaesik/ServerCpp/blob/master/maguire.png" align="center" width=240 height=65 />    
 
 Make server using modern C++  
 
