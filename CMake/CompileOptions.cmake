@@ -3,8 +3,8 @@
 #
 
 # Set warnings as errors flag
-option(CUBBYFLOW_WARNINGS_AS_ERRORS ON)
-if(CUBBYFLOW_WARNINGS_AS_ERRORS)
+option(WARNINGS_AS_ERRORS ON)
+if(WARNINGS_AS_ERRORS)
     if(CMAKE_CXX_COMPILER_ID MATCHES "MSVC")
         set(WARN_AS_ERROR_FLAGS	"/WX")
     else()
