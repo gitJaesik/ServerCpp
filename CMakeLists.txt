@@ -43,4 +43,5 @@ add_subdirectory(Libraries/benchmark)
 set(CMAKE_CXX_VISIBILITY_PRESET hidden)
 set(CMAKE_VISIBILITY_INLINES_HIDDEN 1)
 add_subdirectory(Sources)
+add_subdirectory(Tests/UnitTests)
 
