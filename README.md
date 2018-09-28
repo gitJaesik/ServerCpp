@@ -3,6 +3,8 @@
 <img src="https://github.com/gitJaesik/ServerCpp/blob/master/maguire.png" align="center" width=240 height=65 />    
 
 Make server using modern C++  
+- Use Epoll default (default linux, docker)
+- To use it in cross-platform, use Asio if possible
 
 [![License](https://img.shields.io/badge/Licence-MIT-blue.svg)](https://github.com/gitJaesik/ServerCpp/blob/master/LICENSE)  
 
